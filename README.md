@@ -110,6 +110,6 @@ Contributions, issues, and feature requests are welcome\! Feel free to check the
 
 This project is licensed under the MIT License. Feel free to use and modify it as you wish.
 
-\<br\>
 
-Made with ❤ by [Your Name]
+
+Made with ❤ by Charan Kumar Nunna
